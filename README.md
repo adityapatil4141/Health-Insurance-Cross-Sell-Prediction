@@ -27,7 +27,7 @@ This project focuses on predicting whether customers who have health insurance a
 ## Usage
 
 1. **Data Preparation:** Explore the dataset using the provided Colab Notebooks.
-2. **Model Training:** Understand the implementation of Logistic Regression, RandomForestClassifier, and XGBClassifier for predicting vehicle insurance interest.
+2. **Model Training:** Understanding the implementation of Logistic Regression, RandomForestClassifier, and XGBClassifier for predicting vehicle insurance interest.
 3. **Evaluation:** Review the evaluation metrics to assess model performance.
 4. **Visualization:** Explore visualizations for insights into the dataset.
 
